@@ -1,0 +1,352 @@
+[
+    {
+        "Question": "Qual foi o primeiro homem a pisar na Lua?",
+        "Options": [
+            "Buzz Aldrin",
+            "Neil Armstrong",
+            "Yuri Gagarin",
+            "John Glenn"
+        ],
+        "Response": "Neil Armstrong"
+    },
+    {
+        "Question": "Qual é o maior país do mundo em extensão territorial?",
+        "Options": [
+            "Canadá",
+            "China",
+            "Estados Unidos",
+            "Rússia"
+        ],
+        "Response": "Rússia"
+    },
+    {
+        "Question": "Qual é o nome do processo pelo qual as plantas produzem seu alimento?",
+        "Options": [
+            "Respiração",
+            "Fotossíntese",
+            "Fermentação",
+            "Transpiração"
+        ],
+        "Response": "Fotossíntese"
+    },
+    {
+        "Question": "Em que ano ocorreu o atentado às Torres Gêmeas em Nova York?",
+        "Options": [
+            "2000",
+            "2001",
+            "1999",
+            "2003"
+        ],
+        "Response": "2001"
+    },
+    {
+        "Question": "Qual é o menor país do mundo?",
+        "Options": [
+            "Mônaco",
+            "Vaticano",
+            "Malta",
+            "San Marino"
+        ],
+        "Response": "Vaticano"
+    },
+    {
+        "Question": "Qual é o elemento químico representado pelo símbolo 'O'?",
+        "Options": [
+            "Oxigênio",
+            "Ouro",
+            "Ósmio",
+            "Óxido"
+        ],
+        "Response": "Oxigênio"
+    },
+    {
+        "Question": "Quem foi o responsável pela teoria da relatividade?",
+        "Options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Galileu Galilei",
+            "Stephen Hawking"
+        ],
+        "Response": "Albert Einstein"
+    },
+    {
+        "Question": "Qual é o país de origem da Coca-Cola?",
+        "Options": [
+            "Brasil",
+            "França",
+            "Estados Unidos",
+            "Alemanha"
+        ],
+        "Response": "Estados Unidos"
+    },
+    {
+        "Question": "Qual é o idioma oficial da Austrália?",
+        "Options": [
+            "Inglês",
+            "Francês",
+            "Alemão",
+            "Mandarim"
+        ],
+        "Response": "Inglês"
+    },
+    {
+        "Question": "Quantos anéis tem o símbolo dos Jogos Olímpicos?",
+        "Options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "Response": "5"
+    },
+    {
+        "Question": "Qual é o animal terrestre mais rápido do mundo?",
+        "Options": [
+            "Leopardo",
+            "Leão",
+            "Guepardo",
+            "Tigre"
+        ],
+        "Response": "Guepardo"
+    },
+    {
+        "Question": "Qual país é conhecido como a Terra do Sol Nascente?",
+        "Options": [
+            "China",
+            "Coreia do Sul",
+            "Japão",
+            "Índia"
+        ],
+        "Response": "Japão"
+    },
+    {
+        "Question": "Qual é o rio mais longo do mundo?",
+        "Options": [
+            "Rio Nilo",
+            "Rio Amazonas",
+            "Rio Yangtzé",
+            "Rio Mississippi"
+        ],
+        "Response": "Rio Amazonas"
+    },
+    {
+        "Question": "Quem pintou a Mona Lisa?",
+        "Options": [
+            "Michelangelo",
+            "Vincent van Gogh",
+            "Leonardo da Vinci",
+            "Pablo Picasso"
+        ],
+        "Response": "Leonardo da Vinci"
+    },
+    {
+        "Question": "Qual é a moeda oficial do Japão?",
+        "Options": [
+            "Won",
+            "Yuan",
+            "Iene",
+            "Dólar"
+        ],
+        "Response": "Iene"
+    },
+    {
+        "Question": "Quem foi o primeiro presidente negro dos Estados Unidos?",
+        "Options": [
+            "George Washington",
+            "Barack Obama",
+            "Abraham Lincoln",
+            "Donald Trump"
+        ],
+        "Response": "Barack Obama"
+    },
+    {
+        "Question": "Qual foi o cientista que formulou as leis do movimento?",
+        "Options": [
+            "Charles Darwin",
+            "Isaac Newton",
+            "Albert Einstein",
+            "Galileu Galilei"
+        ],
+        "Response": "Isaac Newton"
+    },
+    {
+        "Question": "Quantos ossos tem o corpo humano adulto?",
+        "Options": [
+            "200",
+            "206",
+            "210",
+            "220"
+        ],
+        "Response": "206"
+    },
+    {
+        "Question": "Qual é o maior oceano da Terra?",
+        "Options": [
+            "Oceano Atlântico",
+            "Oceano Índico",
+            "Oceano Pacífico",
+            "Oceano Ártico"
+        ],
+        "Response": "Oceano Pacífico"
+    },
+    {
+        "Question": "Em qual cidade está localizada a Estátua da Liberdade?",
+        "Options": [
+            "Washington D.C.",
+            "Nova York",
+            "Los Angeles",
+            "Chicago"
+        ],
+        "Response": "Nova York"
+    },
+    {
+        "Question": "Qual é o planeta mais próximo do Sol?",
+        "Options": [
+            "Marte",
+            "Vênus",
+            "Terra",
+            "Mercúrio"
+        ],
+        "Response": "Mercúrio"
+    },
+    {
+        "Question": "Quem escreveu 'Dom Quixote'?",
+        "Options": [
+            "Gabriel García Márquez",
+            "Jorge Luis Borges",
+            "Miguel de Cervantes",
+            "Pablo Neruda"
+        ],
+        "Response": "Miguel de Cervantes"
+    },
+    {
+        "Question": "Qual é o maior mamífero do mundo?",
+        "Options": [
+            "Elefante africano",
+            "Baleia azul",
+            "Rinoceronte",
+            "Girafa"
+        ],
+        "Response": "Baleia azul"
+    },
+    {
+        "Question": "Qual país sediou os Jogos Olímpicos de 2016?",
+        "Options": [
+            "Japão",
+            "Brasil",
+            "Rússia",
+            "Inglaterra"
+        ],
+        "Response": "Brasil"
+    },
+    {
+        "Question": "Qual é a capital da França?",
+        "Options": [
+            "Londres",
+            "Paris",
+            "Berlim",
+            "Madri"
+        ],
+        "Response": "Paris"
+    },
+    {
+        "Question": "Em que continente está localizado o Egito?",
+        "Options": [
+            "Ásia",
+            "África",
+            "Europa",
+            "América do Sul"
+        ],
+        "Response": "África"
+    },
+    {
+        "Question": "Quem foi o primeiro cosmonauta a viajar ao espaço?",
+        "Options": [
+            "Neil Armstrong",
+            "Buzz Aldrin",
+            "Yuri Gagarin",
+            "Alan Shepard"
+        ],
+        "Response": "Yuri Gagarin"
+    },
+    {
+        "Question": "Qual é o metal mais abundante na crosta terrestre?",
+        "Options": [
+            "Cobre",
+            "Ferro",
+            "Alumínio",
+            "Ouro"
+        ],
+        "Response": "Alumínio"
+    },
+    {
+        "Question": "Qual é a montanha mais alta do mundo?",
+        "Options": [
+            "K2",
+            "Monte Everest",
+            "Monte Kilimanjaro",
+            "Monte Fuji"
+        ],
+        "Response": "Monte Everest"
+    },
+    {
+        "Question": "Quem foi o criador do Facebook?",
+        "Options": [
+            "Steve Jobs",
+            "Bill Gates",
+            "Elon Musk",
+            "Mark Zuckerberg"
+        ],
+        "Response": "Mark Zuckerberg"
+    },
+    {
+        "Question": "Qual é o idioma oficial do Brasil?",
+        "Options": [
+            "Espanhol",
+            "Português",
+            "Francês",
+            "Inglês"
+        ],
+        "Response": "Português"
+    },
+    {
+        "Question": "Quantos continentes existem no mundo?",
+        "Options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "Response": "7"
+    },
+    {
+        "Question": "Qual é o nome da maior floresta tropical do mundo?",
+        "Options": [
+            "Floresta Amazônica",
+            "Floresta Negra",
+            "Floresta de Bornéu",
+            "Floresta de Daintree"
+        ],
+        "Response": "Floresta Amazônica"
+    },
+    {
+        "Question": "Quem escreveu 'Hamlet'?",
+        "Options": [
+            "William Shakespeare",
+            "Jane Austen",
+            "Charles Dickens",
+            "Mark Twain"
+        ],
+        "Response": "William Shakespeare"
+    },
+    {
+        "Question": "Em que ano o Titanic afundou?",
+        "Options": [
+            "1912",
+            "1905",
+            "1920",
+            "1918"
+        ],
+        "Response": "1912"
+    }
+]

@@ -1,38 +1,70 @@
-.App {
-  text-align: center;
+:root {
+  --background: #fff;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  background-color: var(--background);
+  transition: 200ms;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.vertical {
+  transform: rotateZ(-90deg) !important;
+  writing-mode: vertical-lr;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+body[data-bs-theme="dark"] {
+    --background: #080218;
+
+	.meteoro {
+		display: block;
+	}
+
+    .glass {
+        background: transparent;
+        backdrop-filter: blur(2px);
+    }
 }
 
-.App-link {
-  color: #61dafb;
+[data-style="1"] {
+	top: -5px !important;
+	left: -5px !important;
+	--i: 10s;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+[data-style="2"] {
+	top: -5px !important;
+	left: -300px !important;
+	--i: 12s;
+}
+
+[data-style="3"] {
+	top: -5px !important;
+	left: -500px !important;
+	--i: 18s;
+}
+
+.meteoro {
+	display: none;
+	width: 5px;
+	height: 5px;
+	border-radius: 100px;
+	background-color: white;
+	position: fixed;
+	animation: meteoro-caindo linear infinite;
+	animation-duration: var(--i);
+	box-shadow: 50vw -10vh 0 yellow,
+		25vw 10vh 0 blue,
+		-15vw -30vh 0 red,
+		30vw -20vh 0 purple,
+		-15vw 50vh 0 green;
+	z-index: -1;
+}
+
+@keyframes meteoro-caindo {
+	0% {
+		transform: translateX(0) translateY(0);
+	}
+	100% {
+		transform: translateX(150vw) translateY(100vh);
+	}
 }

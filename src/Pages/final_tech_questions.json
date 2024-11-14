@@ -1,0 +1,502 @@
+[
+    {
+        "Question": "O que significa a sigla 'HTTP'?",
+        "Options": [
+            "HyperText Transfer Protocol",
+            "HighText Transfer Protocol",
+            "Hyperlink Transfer Protocol",
+            "HyperText Transmission Protocol"
+        ],
+        "Response": "HyperText Transfer Protocol"
+    },
+    {
+        "Question": "Qual linguagem de programação é conhecida por ser a base da web?",
+        "Options": [
+            "Python",
+            "JavaScript",
+            "C#",
+            "Java"
+        ],
+        "Response": "JavaScript"
+    },
+    {
+        "Question": "O que significa a sigla 'SQL'?",
+        "Options": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "Standard Query Language",
+            "Sequential Query Language"
+        ],
+        "Response": "Structured Query Language"
+    },
+    {
+        "Question": "Qual empresa desenvolveu o sistema operacional Linux?",
+        "Options": [
+            "Canonical",
+            "Microsoft",
+            "Red Hat",
+            "Nenhuma das anteriores"
+        ],
+        "Response": "Nenhuma das anteriores"
+    },
+    {
+        "Question": "Qual dos seguintes é um banco de dados NoSQL?",
+        "Options": [
+            "MySQL",
+            "PostgreSQL",
+            "MongoDB",
+            "OracleDB"
+        ],
+        "Response": "MongoDB"
+    },
+    {
+        "Question": "Quem é o criador do sistema operacional Windows?",
+        "Options": [
+            "Steve Jobs",
+            "Bill Gates",
+            "Linus Torvalds",
+            "Larry Page"
+        ],
+        "Response": "Bill Gates"
+    },
+    {
+        "Question": "O que é um 'bug' em programação?",
+        "Options": [
+            "Um erro no código",
+            "Uma atualização do software",
+            "Uma nova funcionalidade",
+            "Uma brecha de segurança"
+        ],
+        "Response": "Um erro no código"
+    },
+    {
+        "Question": "Qual é a função principal de um sistema operacional?",
+        "Options": [
+            "Gerenciar hardware e software",
+            "Executar antivírus",
+            "Desenvolver softwares",
+            "Fornecer gráficos avançados"
+        ],
+        "Response": "Gerenciar hardware e software"
+    },
+    {
+        "Question": "Qual dos seguintes é um framework JavaScript?",
+        "Options": [
+            "Django",
+            "React",
+            "Laravel",
+            "Spring"
+        ],
+        "Response": "React"
+    },
+    {
+        "Question": "O que é um servidor DNS?",
+        "Options": [
+            "Uma ferramenta para desenvolver websites",
+            "Um serviço que resolve nomes de domínio",
+            "Um banco de dados de usuários",
+            "Um sistema de criptografia"
+        ],
+        "Response": "Um serviço que resolve nomes de domínio"
+    },
+    {
+        "Question": "Qual o principal objetivo da computação em nuvem?",
+        "Options": [
+            "Fornecer armazenamento local",
+            "Permitir acesso remoto a recursos de computação",
+            "Garantir a segurança de dispositivos",
+            "Facilitar a conexão Bluetooth"
+        ],
+        "Response": "Permitir acesso remoto a recursos de computação"
+    },
+    {
+        "Question": "O que é um banco de dados relacional?",
+        "Options": [
+            "Um sistema que armazena dados em tabelas interconectadas",
+            "Um sistema que só armazena dados não estruturados",
+            "Um sistema exclusivo para armazenamento de imagens",
+            "Um tipo de memória RAM"
+        ],
+        "Response": "Um sistema que armazena dados em tabelas interconectadas"
+    },
+    {
+        "Question": "Quem inventou a World Wide Web?",
+        "Options": [
+            "Vint Cerf",
+            "Tim Berners-Lee",
+            "Elon Musk",
+            "Mark Zuckerberg"
+        ],
+        "Response": "Tim Berners-Lee"
+    },
+    {
+        "Question": "O que é um endereço IP?",
+        "Options": [
+            "Um identificador único para cada dispositivo em uma rede",
+            "Um código de autenticação",
+            "Um protocolo de segurança",
+            "Uma linguagem de programação"
+        ],
+        "Response": "Um identificador único para cada dispositivo em uma rede"
+    },
+    {
+        "Question": "Qual ferramenta é usada para versionamento de código?",
+        "Options": [
+            "Docker",
+            "Git",
+            "Apache",
+            "Node.js"
+        ],
+        "Response": "Git"
+    },
+    {
+        "Question": "O que significa 'API'?",
+        "Options": [
+            "Application Programming Interface",
+            "Advanced Programming Integration",
+            "Application Process Interface",
+            "Automated Programming Integration"
+        ],
+        "Response": "Application Programming Interface"
+    },
+    {
+        "Question": "Qual protocolo é usado para enviar emails?",
+        "Options": [
+            "HTTP",
+            "SMTP",
+            "FTP",
+            "DNS"
+        ],
+        "Response": "SMTP"
+    },
+    {
+        "Question": "O que é um sistema ERP?",
+        "Options": [
+            "Software de gestão empresarial",
+            "Sistema operacional de código aberto",
+            "Banco de dados relacional",
+            "Plataforma de e-commerce"
+        ],
+        "Response": "Software de gestão empresarial"
+    },
+    {
+        "Question": "Qual linguagem é amplamente utilizada para análise de dados?",
+        "Options": [
+            "C#",
+            "R",
+            "Java",
+            "Go"
+        ],
+        "Response": "R"
+    },
+    {
+        "Question": "O que significa 'Open Source'?",
+        "Options": [
+            "Código aberto para colaboração",
+            "Software gratuito",
+            "Software sem bugs",
+            "Sistema operacional"
+        ],
+        "Response": "Código aberto para colaboração"
+    },
+    {
+        "Question": "O que é uma máquina virtual?",
+        "Options": [
+            "Um software que simula um ambiente de hardware",
+            "Um servidor físico dedicado",
+            "Um sistema operacional nativo",
+            "Um dispositivo de armazenamento externo"
+        ],
+        "Response": "Um software que simula um ambiente de hardware"
+    },
+    {
+        "Question": "Qual é a função do protocolo FTP?",
+        "Options": [
+            "Transferir arquivos entre computadores",
+            "Proteger redes contra ataques",
+            "Gerenciar domínios",
+            "Monitorar tráfego de internet"
+        ],
+        "Response": "Transferir arquivos entre computadores"
+    },
+    {
+        "Question": "O que é um sistema de gerenciamento de banco de dados (SGBD)?",
+        "Options": [
+            "Software que gerencia dados estruturados em bancos",
+            "Sistema de backup automático",
+            "Aplicativo de monitoramento de rede",
+            "Software de controle de acesso"
+        ],
+        "Response": "Software que gerencia dados estruturados em bancos"
+    },
+    {
+        "Question": "Quem é o criador da linguagem de programação Python?",
+        "Options": [
+            "Guido van Rossum",
+            "James Gosling",
+            "Bjarne Stroustrup",
+            "Dennis Ritchie"
+        ],
+        "Response": "Guido van Rossum"
+    },
+    {
+        "Question": "Qual é a função do comando 'ping'?",
+        "Options": [
+            "Testar a conectividade de rede entre dispositivos",
+            "Listar dispositivos conectados em uma rede",
+            "Configurar roteadores",
+            "Criar novas redes locais"
+        ],
+        "Response": "Testar a conectividade de rede entre dispositivos"
+    },
+    {
+        "Question": "O que é a virtualização?",
+        "Options": [
+            "Tecnologia que permite executar múltiplos sistemas operacionais em um único hardware",
+            "Uma técnica de compressão de dados",
+            "Um sistema de armazenamento em nuvem",
+            "Um método de criptografia avançada"
+        ],
+        "Response": "Tecnologia que permite executar múltiplos sistemas operacionais em um único hardware"
+    },
+    {
+        "Question": "Qual é o principal objetivo de um sistema de CRM?",
+        "Options": [
+            "Gerenciar relacionamentos com clientes",
+            "Controlar inventário de TI",
+            "Proteger dados empresariais",
+            "Realizar análise financeira"
+        ],
+        "Response": "Gerenciar relacionamentos com clientes"
+    },
+    {
+        "Question": "O que faz o comando 'ls' em sistemas Unix/Linux?",
+        "Options": [
+            "Lista arquivos e diretórios",
+            "Exclui arquivos",
+            "Move arquivos para outro diretório",
+            "Cria um novo diretório"
+        ],
+        "Response": "Lista arquivos e diretórios"
+    },
+    {
+        "Question": "O que significa 'Big Data'?",
+        "Options": [
+            "Grandes volumes de dados analisados para insights",
+            "Uma grande base de dados relacional",
+            "Uma rede global de servidores",
+            "Uma tecnologia de hardware de grande capacidade"
+        ],
+        "Response": "Grandes volumes de dados analisados para insights"
+    },
+    {
+        "Question": "O que é o Kubernetes?",
+        "Options": [
+            "Um sistema para gerenciar contêineres em cluster",
+            "Um software de monitoramento de redes",
+            "Uma linguagem de programação para IA",
+            "Uma ferramenta para desenvolvimento de aplicativos"
+        ],
+        "Response": "Um sistema para gerenciar contêineres em cluster"
+    },
+    {
+        "Question": "O que é a técnica de hashing?",
+        "Options": [
+            "Transformar dados em uma sequência fixa de caracteres",
+            "Compressão de arquivos grandes",
+            "Aumentar a capacidade de um sistema de rede",
+            "Gerar cópias de segurança"
+        ],
+        "Response": "Transformar dados em uma sequência fixa de caracteres"
+    },
+    {
+        "Question": "Qual é a função principal do protocolo HTTPS?",
+        "Options": [
+            "Proteger a comunicação entre cliente e servidor",
+            "Aumentar a velocidade da conexão",
+            "Monitorar atividades de rede",
+            "Gerenciar endereços IP"
+        ],
+        "Response": "Proteger a comunicação entre cliente e servidor"
+    },
+    {
+        "Question": "O que é um data lake?",
+        "Options": [
+            "Um repositório de dados brutos em grande escala",
+            "Um sistema de backup em nuvem",
+            "Uma ferramenta de análise de dados estruturados",
+            "Uma linguagem de programação para dados"
+        ],
+        "Response": "Um repositório de dados brutos em grande escala"
+    },
+    {
+        "Question": "Quem criou o sistema de versão Git?",
+        "Options": [
+            "Linus Torvalds",
+            "Richard Stallman",
+            "Guido van Rossum",
+            "Mark Shuttleworth"
+        ],
+        "Response": "Linus Torvalds"
+    },
+    {
+        "Question": "O que é o 'machine learning'?",
+        "Options": [
+            "Uma técnica de aprendizado baseada em dados",
+            "Um sistema operacional para robôs",
+            "Um protocolo de rede",
+            "Um método de segurança para redes"
+        ],
+        "Response": "Uma técnica de aprendizado baseada em dados"
+    },
+    {
+        "Question": "O que significa a sigla 'HTML'?",
+        "Options": [
+            "HyperText Markup Language",
+            "HyperTransfer Markup Language",
+            "HighText Machine Language",
+            "Hyperlink Machine Language"
+        ],
+        "Response": "HyperText Markup Language"
+    },
+    {
+        "Question": "Quem inventou o protocolo HTTP?",
+        "Options": [
+            "Vint Cerf",
+            "Tim Berners-Lee",
+            "Robert Kahn",
+            "Dennis Ritchie"
+        ],
+        "Response": "Tim Berners-Lee"
+    },
+    {
+        "Question": "Qual o sistema operacional mais utilizado em servidores?",
+        "Options": [
+            "Windows Server",
+            "Linux",
+            "macOS",
+            "Unix"
+        ],
+        "Response": "Linux"
+    },
+    {
+        "Question": "O que é um 'firewall'?",
+        "Options": [
+            "Uma barreira de segurança para a rede",
+            "Um antivírus avançado",
+            "Um sistema operacional para segurança",
+            "Uma camada de criptografia"
+        ],
+        "Response": "Uma barreira de segurança para a rede"
+    },
+    {
+        "Question": "Qual linguagem é mais usada em inteligência artificial?",
+        "Options": [
+            "Python",
+            "Java",
+            "C++",
+            "Ruby"
+        ],
+        "Response": "Python"
+    },
+    {
+        "Question": "O que é um 'router'?",
+        "Options": [
+            "Um dispositivo que conecta redes diferentes",
+            "Um dispositivo que armazena dados",
+            "Um software para navegar na web",
+            "Uma ferramenta para desenvolvimento de software"
+        ],
+        "Response": "Um dispositivo que conecta redes diferentes"
+    },
+    {
+        "Question": "Quem é considerado o criador do sistema operacional Linux?",
+        "Options": [
+            "Linus Torvalds",
+            "Richard Stallman",
+            "Steve Jobs",
+            "Ken Thompson"
+        ],
+        "Response": "Linus Torvalds"
+    },
+    {
+        "Question": "Qual foi o primeiro navegador da web?",
+        "Options": [
+            "Mosaic",
+            "Netscape Navigator",
+            "Internet Explorer",
+            "Google Chrome"
+        ],
+        "Response": "Mosaic"
+    },
+    {
+        "Question": "Qual empresa é dona do sistema operacional Android?",
+        "Options": [
+            "Apple",
+            "Google",
+            "Microsoft",
+            "Samsung"
+        ],
+        "Response": "Google"
+    },
+    {
+        "Question": "O que é um 'algoritmo'?",
+        "Options": [
+            "Uma sequência de passos para resolver um problema",
+            "Um código de criptografia",
+            "Uma linguagem de programação",
+            "Um software de análise de dados"
+        ],
+        "Response": "Uma sequência de passos para resolver um problema"
+    },
+    {
+        "Question": "O que significa a sigla 'CPU'?",
+        "Options": [
+            "Central Processing Unit",
+            "Central Performance Unit",
+            "Central Programming Unit",
+            "Core Processing Unit"
+        ],
+        "Response": "Central Processing Unit"
+    },
+    {
+        "Question": "Qual foi a linguagem de programação criada por James Gosling em 1995?",
+        "Options": [
+            "Python",
+            "Java",
+            "C++",
+            "Ruby"
+        ],
+        "Response": "Java"
+    },
+    {
+        "Question": "Qual empresa desenvolveu o sistema operacional Windows?",
+        "Options": [
+            "Apple",
+            "Microsoft",
+            "Google",
+            "IBM"
+        ],
+        "Response": "Microsoft"
+    },
+    {
+        "Question": "O que é 'IoT'?",
+        "Options": [
+            "Internet of Technology",
+            "Integration of Technology",
+            "Internet of Things",
+            "Information on Technology"
+        ],
+        "Response": "Internet of Things"
+    },
+    {
+        "Question": "Quem é conhecido como o 'Pai da Computação'?",
+        "Options": [
+            "Alan Turing",
+            "Bill Gates",
+            "Steve Jobs",
+            "Tim Berners-Lee"
+        ],
+        "Response": "Alan Turing"
+    }
+]
