@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react"
-import quests from './final_tech_questions.json'
+import quests from './final_quests.json'
 
 export default function Quiz(props) {
 
