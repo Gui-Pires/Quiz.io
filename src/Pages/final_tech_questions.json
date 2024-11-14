@@ -112,9 +112,9 @@
     {
         "Question": "O que é um banco de dados relacional?",
         "Options": [
-            "Um sistema que armazena dados em tabelas interconectadas",
             "Um sistema que só armazena dados não estruturados",
             "Um sistema exclusivo para armazenamento de imagens",
+            "Um sistema que armazena dados em tabelas interconectadas",
             "Um tipo de memória RAM"
         ],
         "Response": "Um sistema que armazena dados em tabelas interconectadas"
@@ -152,9 +152,9 @@
     {
         "Question": "O que significa 'API'?",
         "Options": [
-            "Application Programming Interface",
             "Advanced Programming Integration",
             "Application Process Interface",
+            "Application Programming Interface",
             "Automated Programming Integration"
         ],
         "Response": "Application Programming Interface"
@@ -192,9 +192,9 @@
     {
         "Question": "O que significa 'Open Source'?",
         "Options": [
-            "Código aberto para colaboração",
             "Software gratuito",
             "Software sem bugs",
+            "Código aberto para colaboração",
             "Sistema operacional"
         ],
         "Response": "Código aberto para colaboração"
@@ -202,19 +202,19 @@
     {
         "Question": "O que é uma máquina virtual?",
         "Options": [
-            "Um software que simula um ambiente de hardware",
             "Um servidor físico dedicado",
             "Um sistema operacional nativo",
-            "Um dispositivo de armazenamento externo"
+            "Um dispositivo de armazenamento externo",
+            "Um software que simula um ambiente de hardware"
         ],
         "Response": "Um software que simula um ambiente de hardware"
     },
     {
         "Question": "Qual é a função do protocolo FTP?",
         "Options": [
-            "Transferir arquivos entre computadores",
             "Proteger redes contra ataques",
             "Gerenciar domínios",
+            "Transferir arquivos entre computadores",
             "Monitorar tráfego de internet"
         ],
         "Response": "Transferir arquivos entre computadores"
@@ -242,9 +242,9 @@
     {
         "Question": "Qual é a função do comando 'ping'?",
         "Options": [
-            "Testar a conectividade de rede entre dispositivos",
             "Listar dispositivos conectados em uma rede",
             "Configurar roteadores",
+            "Testar a conectividade de rede entre dispositivos",
             "Criar novas redes locais"
         ],
         "Response": "Testar a conectividade de rede entre dispositivos"
@@ -252,8 +252,8 @@
     {
         "Question": "O que é a virtualização?",
         "Options": [
-            "Tecnologia que permite executar múltiplos sistemas operacionais em um único hardware",
             "Uma técnica de compressão de dados",
+            "Tecnologia que permite executar múltiplos sistemas operacionais em um único hardware",
             "Um sistema de armazenamento em nuvem",
             "Um método de criptografia avançada"
         ],
@@ -262,9 +262,9 @@
     {
         "Question": "Qual é o principal objetivo de um sistema de CRM?",
         "Options": [
-            "Gerenciar relacionamentos com clientes",
             "Controlar inventário de TI",
             "Proteger dados empresariais",
+            "Gerenciar relacionamentos com clientes",
             "Realizar análise financeira"
         ],
         "Response": "Gerenciar relacionamentos com clientes"
@@ -272,18 +272,18 @@
     {
         "Question": "O que faz o comando 'ls' em sistemas Unix/Linux?",
         "Options": [
-            "Lista arquivos e diretórios",
             "Exclui arquivos",
             "Move arquivos para outro diretório",
-            "Cria um novo diretório"
+            "Cria um novo diretório",
+            "Lista arquivos e diretórios"
         ],
         "Response": "Lista arquivos e diretórios"
     },
     {
         "Question": "O que significa 'Big Data'?",
         "Options": [
-            "Grandes volumes de dados analisados para insights",
             "Uma grande base de dados relacional",
+            "Grandes volumes de dados analisados para insights",
             "Uma rede global de servidores",
             "Uma tecnologia de hardware de grande capacidade"
         ],
@@ -302,9 +302,9 @@
     {
         "Question": "O que é a técnica de hashing?",
         "Options": [
-            "Transformar dados em uma sequência fixa de caracteres",
             "Compressão de arquivos grandes",
             "Aumentar a capacidade de um sistema de rede",
+            "Transformar dados em uma sequência fixa de caracteres",
             "Gerar cópias de segurança"
         ],
         "Response": "Transformar dados em uma sequência fixa de caracteres"
@@ -322,8 +322,8 @@
     {
         "Question": "O que é um data lake?",
         "Options": [
-            "Um repositório de dados brutos em grande escala",
             "Um sistema de backup em nuvem",
+            "Um repositório de dados brutos em grande escala",
             "Uma ferramenta de análise de dados estruturados",
             "Uma linguagem de programação para dados"
         ],
@@ -332,28 +332,28 @@
     {
         "Question": "Quem criou o sistema de versão Git?",
         "Options": [
-            "Linus Torvalds",
             "Richard Stallman",
             "Guido van Rossum",
-            "Mark Shuttleworth"
+            "Mark Shuttleworth",
+            "Linus Torvalds"
         ],
         "Response": "Linus Torvalds"
     },
     {
         "Question": "O que é o 'machine learning'?",
         "Options": [
-            "Uma técnica de aprendizado baseada em dados",
             "Um sistema operacional para robôs",
             "Um protocolo de rede",
-            "Um método de segurança para redes"
+            "Um método de segurança para redes",
+            "Uma técnica de aprendizado baseada em dados"
         ],
         "Response": "Uma técnica de aprendizado baseada em dados"
     },
     {
         "Question": "O que significa a sigla 'HTML'?",
         "Options": [
-            "HyperText Markup Language",
             "HyperTransfer Markup Language",
+            "HyperText Markup Language",
             "HighText Machine Language",
             "Hyperlink Machine Language"
         ],
@@ -363,8 +363,8 @@
         "Question": "Quem inventou o protocolo HTTP?",
         "Options": [
             "Vint Cerf",
-            "Tim Berners-Lee",
             "Robert Kahn",
+            "Tim Berners-Lee",
             "Dennis Ritchie"
         ],
         "Response": "Tim Berners-Lee"
@@ -382,8 +382,8 @@
     {
         "Question": "O que é um 'firewall'?",
         "Options": [
-            "Uma barreira de segurança para a rede",
             "Um antivírus avançado",
+            "Uma barreira de segurança para a rede",
             "Um sistema operacional para segurança",
             "Uma camada de criptografia"
         ],
@@ -392,10 +392,10 @@
     {
         "Question": "Qual linguagem é mais usada em inteligência artificial?",
         "Options": [
-            "Python",
             "Java",
             "C++",
-            "Ruby"
+            "Ruby",
+            "Python"
         ],
         "Response": "Python"
     },
@@ -412,8 +412,8 @@
     {
         "Question": "Quem é considerado o criador do sistema operacional Linux?",
         "Options": [
-            "Linus Torvalds",
             "Richard Stallman",
+            "Linus Torvalds",
             "Steve Jobs",
             "Ken Thompson"
         ],
@@ -422,9 +422,9 @@
     {
         "Question": "Qual foi o primeiro navegador da web?",
         "Options": [
-            "Mosaic",
             "Netscape Navigator",
             "Internet Explorer",
+            "Mosaic",
             "Google Chrome"
         ],
         "Response": "Mosaic"
